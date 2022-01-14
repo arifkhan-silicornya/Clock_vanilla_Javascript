@@ -15,10 +15,10 @@ body {
 #ampm{
   position: absolute;
   top: 20%;
-  left: 35%;
-  font-size: 60px;
+  left: 43%;
+  font-size: 30px;
   color: hsl(201, 14%, 46%);
-  opacity: 0.3;
+  opacity: 0.6;
 }
 
 .clock {
@@ -28,6 +28,9 @@ body {
   border-radius: 50%;
   border: 2px solid black;
   position: relative;
+  opacity: 1;
+  box-shadow: 0px 0px 40px 6px aqua,
+  inset 0px 0px 40px 3px aqua;
 }
 
 
